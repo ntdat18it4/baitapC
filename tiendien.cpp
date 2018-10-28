@@ -15,8 +15,8 @@ float Tiendien(int sodien)
 		 {
  		tiendien=49*1500+51*2000+(sodien-100)*3000;
 		 }	
-  return tiendien;
-    }
+	}
+     return tiendien;
 }
 int main(){
 	int a,b,tiendien;
